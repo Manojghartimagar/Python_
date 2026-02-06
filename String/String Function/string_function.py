@@ -34,7 +34,7 @@ print("asd123".isalnum())
 print("ads".isalpha())
 
 # important
-# split()
+# split() ex "I am manoj"->['I','am','manoj']
 # strip()
 # replace()
 # lower()/upper()
