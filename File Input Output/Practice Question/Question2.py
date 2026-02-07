@@ -4,7 +4,7 @@ import time
 
 def game():
     print("He is play the game write now")
-    # time.sleep(5)
+    time.sleep(5)
     newscore = random.randrange(1, 1000,10)
     return newscore
 
